@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_struct\\kadai2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_struct\\kadai1\\kadai1\\kadai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6180B80A-BBA8-4E44-95D4-27AA7702409A}|kadai2\\kadai2.vcxproj|C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_struct\\kadai2\\kadai2\\kadai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6180B80A-BBA8-4E44-95D4-27AA7702409A}|kadai2\\kadai2.vcxproj|solutionrelative:kadai2\\kadai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +22,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "kadai1.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_struct\\kadai1\\kadai1\\kadai1.cpp",
+              "RelativeDocumentMoniker": "..\\kadai1\\kadai1\\kadai1.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_struct\\kadai1\\kadai1\\kadai1.cpp",
+              "RelativeToolTip": "..\\kadai1\\kadai1\\kadai1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-16T07:25:46.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "kadai2.cpp",
               "DocumentMoniker": "C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_struct\\kadai2\\kadai2\\kadai2.cpp",
               "RelativeDocumentMoniker": "kadai2\\kadai2.cpp",
               "ToolTip": "C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_struct\\kadai2\\kadai2\\kadai2.cpp",
               "RelativeToolTip": "kadai2\\kadai2.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-16T06:48:34.063Z",
               "EditorCaption": ""

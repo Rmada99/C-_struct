@@ -36,7 +36,7 @@ int main()
     StudentData student4{ "lion",2 };
     Point(student4);
 
-    StudentData student5{ "slime",2000 };
+    StudentData student5{ "slime",2220 };
     Point(student5);
 
     ave /= 5;
